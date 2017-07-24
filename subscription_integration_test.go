@@ -5,7 +5,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/lionelbarrow/braintree-go/nullable"
+	"github.com/streamco/braintree-go/nullable"
 )
 
 // This test will fail unless you set up your Braintree sandbox account correctly. See TESTING.md for details.
